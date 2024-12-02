@@ -19,8 +19,8 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9ajufj"  />
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/9ajufj"></iframe></div><p><a href="https://imgflip.com/gif/9ajufj">via Imgflip</a></p></div>
+<img align="right" height="150" src="[https://imgflip.com/gif/9ajufj](https://imgflip.com/gif/9ajufj)"/>
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />

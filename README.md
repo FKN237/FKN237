@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nelson Fodjo and I'm an aspiring Data Scientist, from the world</h2>
+<h2 align="left">Hi 👋! My name is Nelson Fodjo and I'm an aspiring Data Scientist, from the Cameroon</h2>
 
 # 💫 About Me:
 ⚪ Give me a notepad and the world becomes my canvas<br>👌🏽 They say I am a perfectionist. :) Call me Man of Time<br>💫  The clock ticks and I count it<br>🍔 My source of energy comes from above<br>🗽 Discovering the insights behind data is my passion
@@ -35,6 +35,7 @@
 </div>
   </a>
 
+![snake gif](https://github.com/YOUR_USERNAME/FKN237/blob/output/github-contribution-grid-snake.gif)
 
 
 

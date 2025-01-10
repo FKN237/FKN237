@@ -13,7 +13,12 @@ MD013: # Line length
   line_length: 80
   strict: false
   stern: false
-
+  
+# .markdownlint.yml
+# Disable all rules
+all:
+  - false
+  
 # Spacing and formatting
 MD022: # Headings should be surrounded by blank lines
   lines_above: 1

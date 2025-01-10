@@ -1,5 +1,13 @@
-
 # .markdownlint.yml
 # Disable all rules
 all:
   - false
+
+# Enable specific rules
+rules:
+  # Disable rule for line length
+  MD045: false
+  # Disable rule for inline HTML
+  MD039: false
+  MD033: false
+  MD045: false

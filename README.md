@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nelson Fodjo and I'm an aspiring Data Scientist from Cameroon</h2>
+<h2 align="left">Hi ! My name is Nelson Fodjo and I'm an aspiring Data Scientist from Cameroon</h2>
 
 # 💫 About Me
 
@@ -48,5 +48,6 @@
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
